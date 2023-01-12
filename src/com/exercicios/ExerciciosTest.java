@@ -18,7 +18,7 @@ public class ExerciciosTest {
 
         objExercicios.setBackground(Color.white);
         app.add(objExercicios);
-        app.setSize(400, 400);
+        app.setSize(600, 600);
         app.setVisible(true);
 
     }
