@@ -18,7 +18,7 @@ public class LinhasTest {
 
         objExercicios.setBackground(Color.white);
         app.add(objExercicios);
-        app.setSize(600, 600);
+        app.setSize(500, 500);
         app.setVisible(true);
 
     }
