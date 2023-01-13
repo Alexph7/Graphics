@@ -19,6 +19,7 @@ public class LinhasTest {
         objLinhas.setBackground(Color.white);
         app.add(objLinhas);
         app.setSize(500, 500);
+        app.setVisible(true);
 
     }
 
